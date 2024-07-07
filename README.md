@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](./images/party-parrot.gif)
+
 <!--
 **Robin0265/Robin0265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
