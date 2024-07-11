@@ -9,17 +9,24 @@ Telegram: @RobinY501
 ![](./images/party-parrot.gif)
 
 
-<!--
-**Robin0265/Robin0265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 10 Rules of Research / Academic Writings
 
-Here are some ideas to get you started:
+### Principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Only one central contribution / main topic
+
+- Design context structure and guide writing process
+
+- Main Structure <mark>Context (beginning for the story) -> Content (main body) -> Conclusion (ending)</mark>
+
+- Logic Flow: one central idea (for context) + parallel messages (for content)
+
+### Main Parts
+
+- Make an outline of the 
+
+### Processes
+
+- Make an outline, start with 1 formal sentence, and classify importance / effort (mainly from reader focus)
+
+- Receive feedback from readers / reviewers
